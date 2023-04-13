@@ -1,0 +1,19 @@
+{
+    "name": "longcn/swoole-express",
+    "description": "Write Swoole with Express style",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Longcn\\SwooleExpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "longcn",
+            "email": "longcn@beetsoft.com.vn"
+        }
+    ],
+    "require-dev": {
+        "swoole/ide-helper": "~5.0.0"
+    }
+}
